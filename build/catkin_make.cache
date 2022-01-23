@@ -1,0 +1,2 @@
+husarion_ros:rosbot_description/src/rosbot_description:rosbot_description/src/rosbot_gazebo:rosbot_description/src/rosbot_navigation:route_admin_panel:tutorial_pkg
+-DCATKIN_DEVEL_PREFIX=/home/myles/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/myles/ros_workspace/install -G Unix Makefiles
